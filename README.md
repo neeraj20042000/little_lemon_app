@@ -11,7 +11,7 @@ Follow these steps to run this Android app in Android Studio:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/neeraj20042000/little-lemon.git
+git clone https://github.com/neeraj20042000/little_lemon_app.git
 ```
 
 ## Open Project in Android Studio
