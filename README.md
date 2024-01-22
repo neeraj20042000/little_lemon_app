@@ -43,3 +43,7 @@ git clone https://github.com/neeraj20042000/little_lemon_app.git
 Wait for the build process to complete, and the app will be installed and launched on the selected emulator or device.
 
 Congratulations! You have successfully run the app in Android Studio.
+
+## Functionality of the application
+
+The application is developed in Android Studio Jetpack Compose toolkit for Little Lemon restaurant. The project involves creating an onboarding flow, profile page, navigation flow between screens, register and logout functionality via data persistence using shared preferences, homepage displaying foodmenu details where menu data is fetched from remote server in JSON format, stored in local SQLite database via ROOM library, can be filtered by search phrase or categories. 
